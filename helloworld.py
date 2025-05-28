@@ -1,6 +1,7 @@
 from random import randint
 
 print(".°-()-°.")
+print(".°-()-°.")
 
 print("Hello, world!")
 
